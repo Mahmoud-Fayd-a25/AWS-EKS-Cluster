@@ -1,0 +1,5 @@
+.terraform
+.terraform.*
+private-key
+local-exec-output-files
+terraform.*
